@@ -1,4 +1,5 @@
-# Building a CRUD API with Django and PostgreSQL
+# Automating Docker Image Deployment to EC2 using Bitbucket Pipelines and Amazon ECR
 
-In this technical post, we will explore how to create a CRUD (Create, Read, Update, Delete) API using Django models and integration with PostgreSQL, a powerful relational database.
-# django_postgres_api_bitbucketpipelines
+In this tutorial, we’ll explore how to automate the deployment of Dockerized applications to Amazon Elastic Compute Cloud (EC2) instances using Bitbucket Pipelines and Amazon Elastic Container Registry (ECR). This approach enables continuous integration and continuous deployment (CI/CD) of containerized applications, ensuring faster and more reliable deployments.
+
+[Read More]([https://pages.github.com/](http://wynntech.me/index.php/2024/06/25/automating-docker-image-deployment-to-ec2-using-bitbucket-pipelines-and-amazon-ecr/))
